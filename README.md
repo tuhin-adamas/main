@@ -4,3 +4,4 @@ this is a programing language
 <h1> first page</h1>
 <h2> second page</h2> <br>
 <i><p> <b> adamas university</b></p></i>
+<center> <h1><i> paragraph</i></h1></center>
