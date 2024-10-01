@@ -7,8 +7,8 @@ this is a programing language
 <h1 align=center> <i> first programe is html<br>that can help web desiner<br> it is best programing number</i></h1><br>
 click <a>here</a> is a link for git hub <br><hr hight=200 width=50>
 <h2 align=center> <del> all volentear </del> </h2>
-<table>
+<h1 align=center><table>
 <tr><th> coloum 1 </th><th>coloum 2</th><th> coloum 3</th></tr>
 <tr><td> tuhin</td><td> subho </td><td> gour</td></tr>
 <tr> <td> 002 </td><td> 19</td><td> 32</td></tr>
-</table>
+</table></h1>
